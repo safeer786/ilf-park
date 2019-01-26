@@ -41,9 +41,18 @@ html,body,header,
   text-align: center;
   color:#0f358e; 
 }
-.button{
+.button-free{
   border-radius: 50%;
   background-color: green;
   padding: 1em;
-  
+}
+.button-reserved-full{
+  border-radius: 50%;
+  background-color: red;
+  padding: 1em;
+}
+.button-reserved-half{
+  border-radius: 50%;
+  background-color: orange;
+  padding: 1em;
 }
