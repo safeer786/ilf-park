@@ -1,34 +1,12 @@
-.navbar {
-    z-index: 999;
-    color: white;
-}
-.navbar {
-    position: static;
-    margin-top:0px;
-    padding-top: 0px;
-    background-color: transparent;
-    color: white;
-}
-.top-nav-collapse {
-    background-color: #4285F4;
-    color: white;
-}
-/*@media only screen and (max-width: 768px) {
-    .navbar {
-        background-color: #4285F4;
-    }
-}*/
-
-html,body,header,
+html,body,
 .view {
   height: 100%;
   /*padding-bottom: 215px;*/
 }
-.navbar-brand img{
-  z-index: 9999;
+
+.page{
+  padding-bottom: 7em;
 }
-
-
 #welcome{
   z-index: 99;
 }
@@ -37,7 +15,6 @@ html,body,header,
 }
 
 .welcome-head{
-  margin-top: 3.5em;
   text-align: center;
   color:#0f358e; 
 }
@@ -55,4 +32,7 @@ html,body,header,
   border-radius: 50%;
   background-color: orange;
   padding: 1em;
+}
+.resinfo-div{
+  font-size:0.7em;
 }
