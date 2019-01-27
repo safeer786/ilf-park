@@ -21,17 +21,20 @@ html,body,
 .button-free{
   border-radius: 50%;
   background-color: green;
-  padding: 1em;
+  /*padding: .5em;*/
+  width:2em;
 }
 .button-reserved-full{
   border-radius: 50%;
   background-color: red;
-  padding: 1em;
+  /*padding: .5em;*/
+  width:2em;
 }
 .button-reserved-half{
   border-radius: 50%;
   background-color: orange;
-  padding: 1em;
+  /*padding: .5em;*/
+  width:2em;
 }
 .resinfo-div{
   font-size:0.7em;
