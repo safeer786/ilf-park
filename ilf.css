@@ -39,3 +39,7 @@ html,body,
 .resinfo-div{
   font-size:0.7em;
 }
+
+img,button{
+  cursor: pointer;
+}
